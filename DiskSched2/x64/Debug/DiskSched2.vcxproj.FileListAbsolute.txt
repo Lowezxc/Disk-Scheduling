@@ -1,0 +1,6 @@
+C:\Users\acuin\source\repos\DiskSched2\DiskSched2\x64\Debug\DiskSched2.vcxproj.AssemblyReference.cache
+C:\Users\acuin\source\repos\DiskSched2\DiskSched2\x64\Debug\DiskSched2.MyForm.resources
+C:\Users\acuin\source\repos\DiskSched2\DiskSched2\x64\Debug\DiskSched2.vcxproj.GenerateResource.cache
+C:\Users\acuin\Documents\DiskSched2\DiskSched2\x64\Debug\DiskSched2.vcxproj.AssemblyReference.cache
+C:\Users\acuin\Documents\DiskSched2\DiskSched2\x64\Debug\DiskSched2.MyForm.resources
+C:\Users\acuin\Documents\DiskSched2\DiskSched2\x64\Debug\DiskSched2.vcxproj.GenerateResource.cache
